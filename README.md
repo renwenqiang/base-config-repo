@@ -1,3 +1,3 @@
-# base-config-repo
+# config-repo
 
 learning for spring cloud config
